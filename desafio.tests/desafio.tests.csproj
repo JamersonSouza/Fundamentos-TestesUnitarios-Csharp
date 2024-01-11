@@ -22,4 +22,8 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\desafio.console\desafio.console.csproj" />
+  </ItemGroup>
+
 </Project>
