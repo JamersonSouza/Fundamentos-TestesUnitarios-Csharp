@@ -1,0 +1,14 @@
+C:\DIO\TestesUnitarios_CSharp_Projeto\desafio.console\bin\Debug\net8.0\desafio.console.exe
+C:\DIO\TestesUnitarios_CSharp_Projeto\desafio.console\bin\Debug\net8.0\desafio.console.deps.json
+C:\DIO\TestesUnitarios_CSharp_Projeto\desafio.console\bin\Debug\net8.0\desafio.console.runtimeconfig.json
+C:\DIO\TestesUnitarios_CSharp_Projeto\desafio.console\bin\Debug\net8.0\desafio.console.dll
+C:\DIO\TestesUnitarios_CSharp_Projeto\desafio.console\bin\Debug\net8.0\desafio.console.pdb
+C:\DIO\TestesUnitarios_CSharp_Projeto\desafio.console\obj\Debug\net8.0\desafio.console.GeneratedMSBuildEditorConfig.editorconfig
+C:\DIO\TestesUnitarios_CSharp_Projeto\desafio.console\obj\Debug\net8.0\desafio.console.AssemblyInfoInputs.cache
+C:\DIO\TestesUnitarios_CSharp_Projeto\desafio.console\obj\Debug\net8.0\desafio.console.AssemblyInfo.cs
+C:\DIO\TestesUnitarios_CSharp_Projeto\desafio.console\obj\Debug\net8.0\desafio.console.csproj.CoreCompileInputs.cache
+C:\DIO\TestesUnitarios_CSharp_Projeto\desafio.console\obj\Debug\net8.0\desafio.console.dll
+C:\DIO\TestesUnitarios_CSharp_Projeto\desafio.console\obj\Debug\net8.0\refint\desafio.console.dll
+C:\DIO\TestesUnitarios_CSharp_Projeto\desafio.console\obj\Debug\net8.0\desafio.console.pdb
+C:\DIO\TestesUnitarios_CSharp_Projeto\desafio.console\obj\Debug\net8.0\desafio.console.genruntimeconfig.cache
+C:\DIO\TestesUnitarios_CSharp_Projeto\desafio.console\obj\Debug\net8.0\ref\desafio.console.dll
